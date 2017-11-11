@@ -1,0 +1,29 @@
+{
+	"homepage": "https://github.com/zetamatta/nyagos",
+	"version": "4.2.2_1",
+	"license": "https://github.com/zetamatta/nyagos/blob/master/LICENSE",
+	"architecture": {
+        "64bit": {
+            "url": "https://github.com/zetamatta/nyagos/releases/download/4.2.2_1/nyagos-4.2.2_1-amd64.zip",
+            "hash": "449b96217759e9f5b5eed78bdcb875b4e51494dd279af6027c20478f9848997e"
+		},
+		"32bit": {
+			"url": "https://github.com/zetamatta/nyagos/releases/download/4.2.2_1/nyagos-4.2.2_1-386.zip",
+			"hash": "5855334056e7dd0131979127bbcf4be5f4ebd69818a28f4851990ef5a593f39b"
+		}
+	},
+	"bin": "nyagos.exe",
+	"checkver": {
+		"github": "https://github.com/zetamatta/nyagos"
+	},
+	"autoupdate": {
+		"architecture": {
+			"64bit": {
+				"url": "https://github.com/zetamatta/nyagos/releases/download/4.2.2_1/nyagos-4.2.2_1-amd64.zip"
+			},
+			"32bit": {
+				"url": "https://github.com/zetamatta/nyagos/releases/download/4.2.2_1/nyagos-4.2.2_1-386.zip"
+			}
+		}
+	}
+}
