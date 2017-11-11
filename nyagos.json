@@ -19,10 +19,10 @@
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
-				"url": "https://github.com/zetamatta/nyagos/releases/download/4.2.2_1/nyagos-4.2.2_1-amd64.zip"
+				"url": "https://github.com/zetamatta/nyagos/releases/download/$version/nyagos-$version-amd64.zip"
 			},
 			"32bit": {
-				"url": "https://github.com/zetamatta/nyagos/releases/download/4.2.2_1/nyagos-4.2.2_1-386.zip"
+				"url": "https://github.com/zetamatta/nyagos/releases/download/$version/nyagos-$version-386.zip"
 			}
 		}
 	}
