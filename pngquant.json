@@ -1,9 +1,8 @@
 {
 	"homepage": "https://pngquant.org/",
-	"version": "2.11.2",
+	"version": "2.11.7",
 	"license": "https://github.com/pornel/pngquant#license",
     "url": "https://pngquant.org/pngquant-windows.zip",
-    "hash": "e45c7315bcb55b6bee075b25a4a1167149a03e731270923ebda8e884a30326d5",
 	"bin": "pngquant/pngquant.exe",
     "checkver": "<small>\\(([\\d.]+)\\)</small>",
 	"autoupdate": {
