@@ -21,12 +21,10 @@
   },
   "architecture": {
       "64bit": {
-          "url": "https://vscode-update.azurewebsites.net/1.20.0-insider/win32-x64-archive/insider#/dl.7z",
-          "hash": "724b08232a2ea6ed19e2e10b79fe162c94b6f5e6912004faf6321215cdcf2f3f"
+          "url": "https://vscode-update.azurewebsites.net/1.20.0-insider/win32-x64-archive/insider#/dl.7z"
       },
       "32bit": {
-          "url": "https://vscode-update.azurewebsites.net/1.20.0-insider/win32-archive/insider#/dl.7z",
-          "hash": "1a8bea72f7edb0d072ca3ee045b5d86e2d9149da8c1fdf43b51103df31b036e6"
+          "url": "https://vscode-update.azurewebsites.net/1.20.0-insider/win32-archive/insider#/dl.7z"
       }
   },
   "autoupdate": {
