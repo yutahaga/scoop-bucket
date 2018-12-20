@@ -1,10 +1,9 @@
 {
     "homepage": "https://git-ftp.github.io/",
-    "version": "1.4.0",
+    "version": "1.5.1",
     "license": "MIT",
-    "url": "https://github.com/git-ftp/git-ftp/archive/1.4.0.zip",
-    "hash": "9d651a07bcc5c488a049955562a29b5e4dcda7e6227f2e5829c0750daff1cb0e",
-    "extract_dir": "git-ftp-1.4.0",
+    "url": "https://github.com/git-ftp/git-ftp/archive/1.5.1.zip",
+    "extract_dir": "git-ftp-1.5.1",
     "depends": "git",
     "post_install": "
         pushd $dir
