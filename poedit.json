@@ -1,6 +1,6 @@
 {
   "homepage": "https://poedit.net/",
-  "version": "2.0.6",
+  "version": "2.2",
   "bin": "Poedit.exe",
   "shortcuts": [
       [
@@ -8,7 +8,7 @@
           "Poedit"
       ]
   ],
-  "url": "https://download.poedit.net/Poedit-2.0.6-setup.exe",
+  "url": "https://download.poedit.net/Poedit-2.2-setup.exe",
   "checkver": {
       "url": "https://poedit.net/download",
       "re": "download\\.poedit\\.net\\/Poedit-([\\d.]+)"
